@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+    xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+    xmlns:admin="http://webns.net/mvcb/"
+>
+
+    <channel rdf:about="https://orlando.craigslist.org/search/sss?format=rss&#x26;query=gamecube&#x26;sort=rel">
+        <title>craigslist orlando | for sale search "gamecube"</title>
+        <link>https://orlando.craigslist.org/search/sss?query=gamecube&#x26;sort=rel</link>
+        <description></description>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:publisher>robot@craigslist.org</dc:publisher>
+        <dc:creator>robot@craigslist.org</dc:creator>
+        <dc:source>https://orlando.craigslist.org/search/sss?format=rss&#x26;query=gamecube&#x26;sort=rel</dc:source>
+        <dc:title>craigslist orlando | for sale search "gamecube"</dc:title>
+        <dc:type>Collection</dc:type>
+        <syn:updateBase>2016-10-01T15:29:23-04:00</syn:updateBase>
+        <syn:updateFrequency>1</syn:updateFrequency>
+        <syn:updatePeriod>hourly</syn:updatePeriod>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://orlando.craigslist.org/fod/5807990745.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/vgm/5798256638.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/fod/5807137989.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/vgm/5768546943.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/vgm/5805326268.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/fod/5805179889.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/vgm/5805271390.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/vgm/5800469243.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/vgm/5804939904.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/wad/5804713803.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/fod/5804687849.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/syd/5792928900.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/fod/5803781438.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/vgm/5795991475.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/ele/5802465265.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/vgm/5782214618.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/wan/5791653430.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/vgm/5793714720.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/wan/5790183163.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/vgm/5780663678.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/vgm/5737843539.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/tag/5772166989.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/wan/5728303518.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/vgm/5754589378.html" />
+                <rdf:li rdf:resource="http://orlando.craigslist.org/vgm/5754032125.html" />
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="http://orlando.craigslist.org/fod/5807990745.html">
+        <title><![CDATA[VINTAGE AND NEW VIDEO GAMES FOR SALE NES SNES SEGA PS4 XBOX ONE ATARI (orlando)]]></title>
+        <link>http://orlando.craigslist.org/fod/5807990745.html</link>
+        <description><![CDATA[Do you Game? Do you find yourself holding a controller whilst also browsing this ad right now? 
+Come over to Hudson's Comics where we carry the best in the Video Game biz. 
+We have all the classics like: 
+NES SNES Nintendo 64 GameCube Game Boy Game B [...]]]></description>
+        <dc:date>2016-10-01T13:05:01-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/fod/5807990745.html</dc:source>
+        <dc:title><![CDATA[VINTAGE AND NEW VIDEO GAMES FOR SALE NES SNES SEGA PS4 XBOX ONE ATARI (orlando)]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00C0C_lA4UQCgqTnG_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-10-01T13:05:01-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/vgm/5798256638.html">
+        <title><![CDATA[Metroid Prime New Sealed VGA 90 FIRST PRINT Black Label Nintendo Gamec (Oviedo) &#x0024;210]]></title>
+        <link>http://orlando.craigslist.org/vgm/5798256638.html</link>
+        <description><![CDATA[Factory sealed brand new Metroid Prime for Nintendo Gamecube in MINT condition. This is the first print black label version of this groundbreaking classic. This game has been authenticated, graded and encased in acrylic by the Video Game Authority (V [...]]]></description>
+        <dc:date>2016-10-01T12:08:44-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/vgm/5798256638.html</dc:source>
+        <dc:title><![CDATA[Metroid Prime New Sealed VGA 90 FIRST PRINT Black Label Nintendo Gamec (Oviedo) &#x0024;210]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00S0S_ja7HVajr6EC_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-10-01T12:08:44-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/fod/5807137989.html">
+        <title><![CDATA[VINTAGE AND NEW VIDEO GAMES FOR SALE NES SNES SEGA PS4 XBOX ONE ATARI (orlando)]]></title>
+        <link>http://orlando.craigslist.org/fod/5807137989.html</link>
+        <description><![CDATA[Do you Game? Do you find yourself holding a controller whilst also browsing this ad right now? 
+Come over to Hudson's Comics where we carry the best in the Video Game biz. 
+We have all the classics like: 
+NES SNES Nintendo 64 GameCube Game Boy Game B [...]]]></description>
+        <dc:date>2016-09-30T20:10:48-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/fod/5807137989.html</dc:source>
+        <dc:title><![CDATA[VINTAGE AND NEW VIDEO GAMES FOR SALE NES SNES SEGA PS4 XBOX ONE ATARI (orlando)]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00C0C_lA4UQCgqTnG_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-09-30T20:10:48-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/vgm/5768546943.html">
+        <title><![CDATA[Original Wii console (Debary) &#x0024;50]]></title>
+        <link>http://orlando.craigslist.org/vgm/5768546943.html</link>
+        <description><![CDATA[Original Wii console with everything in pictures. Works great. GameCube compatible. Everything you need to start playing. Cash only, no trades. Pick up only in Debary. No lowball offers. 
+Check out all of my bargains by clicking on the "more ads by t [...]]]></description>
+        <dc:date>2016-09-30T08:22:28-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/vgm/5768546943.html</dc:source>
+        <dc:title><![CDATA[Original Wii console (Debary) &#x0024;50]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00606_7ood4PFsx7X_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-09-30T08:22:28-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/vgm/5805326268.html">
+        <title><![CDATA[Nintendo GameCube Games]]></title>
+        <link>http://orlando.craigslist.org/vgm/5805326268.html</link>
+        <description><![CDATA[Smash Bros Melee - 50 
+Mario Kart Double Dash - 40 
+Mario Party 5 - 40 
+Super Strikers - 30 
+Pokemon Channel - 20 
+Harvest Moon - 20 each 
+Starfox Adventures - 15]]></description>
+        <dc:date>2016-09-29T16:24:59-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/vgm/5805326268.html</dc:source>
+        <dc:title><![CDATA[Nintendo GameCube Games]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00F0F_2xoqyQA3FhP_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-09-29T16:24:59-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/fod/5805179889.html">
+        <title><![CDATA[VINTAGE AND NEW VIDEO GAMES FOR SALE NES SNES SEGA PS4 XBOX ONE ATARI (orlando)]]></title>
+        <link>http://orlando.craigslist.org/fod/5805179889.html</link>
+        <description><![CDATA[Do you Game? Do you find yourself holding a controller whilst also browsing this ad right now? 
+Come over to Hudson's Comics where we carry the best in the Video Game biz. 
+We have all the classics like: 
+NES SNES Nintendo 64 GameCube Game Boy Game B [...]]]></description>
+        <dc:date>2016-09-29T16:13:44-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/fod/5805179889.html</dc:source>
+        <dc:title><![CDATA[VINTAGE AND NEW VIDEO GAMES FOR SALE NES SNES SEGA PS4 XBOX ONE ATARI (orlando)]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00C0C_lA4UQCgqTnG_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-09-29T16:13:44-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/vgm/5805271390.html">
+        <title><![CDATA[EMPTY Cases for DS/3DS/Wii/Wii U/GameCube &#x0024;5]]></title>
+        <link>http://orlando.craigslist.org/vgm/5805271390.html</link>
+        <description><![CDATA[READ: cases/manuals only! NO games! 
+$5 each or make offer]]></description>
+        <dc:date>2016-09-29T15:53:00-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/vgm/5805271390.html</dc:source>
+        <dc:title><![CDATA[EMPTY Cases for DS/3DS/Wii/Wii U/GameCube &#x0024;5]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00t0t_f0RhsQHsDVC_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-09-29T15:53:00-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/vgm/5800469243.html">
+        <title><![CDATA[VIDEO GAME LOT WII , NINTENDO DS, GAMECUBE , PSP SOLD AS LOT ONLY (CLERMONT) &#x0024;50]]></title>
+        <link>http://orlando.craigslist.org/vgm/5800469243.html</link>
+        <description><![CDATA[THIS IS FOR A LOT OF LOT OF VIDEO GAMES THERE ARE A TOTAL OF EIGHT GAMES. YOU GET 4 WII AND THERE ARE 4 WII GAMES THEY ARE SUPER MARIO BROS., WII LEGO PIRATES OF THE CARIBBEAN GAME, WII LEGO STAR WARS THE COMPLETE SAGA, WII LEGO BATMAN 2 DC SUPER HER [...]]]></description>
+        <dc:date>2016-09-29T15:43:49-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/vgm/5800469243.html</dc:source>
+        <dc:title><![CDATA[VIDEO GAME LOT WII , NINTENDO DS, GAMECUBE , PSP SOLD AS LOT ONLY (CLERMONT) &#x0024;50]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00u0u_k2ucbHnHKHa_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-09-29T15:43:49-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/vgm/5804939904.html">
+        <title><![CDATA[NINTENDO WII U 32G DELUXE EDITION!! COMPLETE WITH EXTRAS LE OR TRADE!! (FL MALL/ EAST ORLANDO) &#x0024;200]]></title>
+        <link>http://orlando.craigslist.org/vgm/5804939904.html</link>
+        <description><![CDATA[I HAVE A DELUXE EDITION WII U BLACK COMPLETE IN BOX LIKE NEW COMES WITH 2 GAMES MARIO KART 8 AND NINTENDO LAND. WILLING TO TAKE 200$ CASH OR INTERESTED IN A PARTIAL TRADE FOR EITHER 
+3DS XL BUNDLE WITH GAMES 
+MARIO GAMECUBE AND WII GAMES 
+XBOX ONE BU [...]]]></description>
+        <dc:date>2016-09-29T14:06:23-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/vgm/5804939904.html</dc:source>
+        <dc:title><![CDATA[NINTENDO WII U 32G DELUXE EDITION!! COMPLETE WITH EXTRAS LE OR TRADE!! (FL MALL/ EAST ORLANDO) &#x0024;200]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00Z0Z_lAdrjiW3wvV_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-09-29T14:06:23-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/wad/5804713803.html">
+        <title><![CDATA[WE WILL BUY YOUR ENTIRE RETRO GAMING COLLECTION (Orlando)]]></title>
+        <link>http://orlando.craigslist.org/wad/5804713803.html</link>
+        <description><![CDATA[We will buy your entire retro gaming collection. No collection is too big or too small. 
+We buy controllers, consoles, AC adapters, A/V cables, games, and all video game related accessories. 
+What retro systems are we looking for? 
+Atari 2600, 5200,  [...]]]></description>
+        <dc:date>2016-09-29T12:45:51-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/wad/5804713803.html</dc:source>
+        <dc:title><![CDATA[WE WILL BUY YOUR ENTIRE RETRO GAMING COLLECTION (Orlando)]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00101_il3ir5OUvON_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-09-29T12:45:51-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/fod/5804687849.html">
+        <title><![CDATA[VINTAGE AND NEW VIDEO GAMES FOR SALE NES SNES SEGA PS4 XBOX ONE ATARI (orlando)]]></title>
+        <link>http://orlando.craigslist.org/fod/5804687849.html</link>
+        <description><![CDATA[Do you Game? Do you find yourself holding a controller whilst also browsing this ad right now? 
+Come over to Hudson's Comics where we carry the best in the Video Game biz. 
+We have all the classics like: 
+NES SNES Nintendo 64 GameCube Game Boy Game B [...]]]></description>
+        <dc:date>2016-09-29T11:55:44-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/fod/5804687849.html</dc:source>
+        <dc:title><![CDATA[VINTAGE AND NEW VIDEO GAMES FOR SALE NES SNES SEGA PS4 XBOX ONE ATARI (orlando)]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00C0C_lA4UQCgqTnG_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-09-29T11:55:44-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/syd/5792928900.html">
+        <title><![CDATA[Hyperspin 5TB Arcade Setup w/ 150+ Systems Ready to Play!! (USA) &#x0024;250]]></title>
+        <link>http://orlando.craigslist.org/syd/5792928900.html</link>
+        <description><![CDATA[This is a Hyperspin 5TB External Hard Drive, it has 150+ Systems with everything ready to go!! Comes with everything you need to turn any computer into a home arcade!! This will come like new in the box, with everything you need to start gaming today [...]]]></description>
+        <dc:date>2016-09-29T04:25:32-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/syd/5792928900.html</dc:source>
+        <dc:title><![CDATA[Hyperspin 5TB Arcade Setup w/ 150+ Systems Ready to Play!! (USA) &#x0024;250]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00j0j_iNxAt8qGBDc_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-09-29T04:25:32-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/fod/5803781438.html">
+        <title><![CDATA[VINTAGE AND NEW VIDEO GAMES FOR SALE NES SNES SEGA PS4 XBOX ONE ATARI (orlando)]]></title>
+        <link>http://orlando.craigslist.org/fod/5803781438.html</link>
+        <description><![CDATA[Do you Game? Do you find yourself holding a controller whilst also browsing this ad right now? 
+Come over to Hudson's Comics where we carry the best in the Video Game biz. 
+We have all the classics like: 
+NES SNES Nintendo 64 GameCube Game Boy Game B [...]]]></description>
+        <dc:date>2016-09-28T17:56:24-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/fod/5803781438.html</dc:source>
+        <dc:title><![CDATA[VINTAGE AND NEW VIDEO GAMES FOR SALE NES SNES SEGA PS4 XBOX ONE ATARI (orlando)]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00C0C_lA4UQCgqTnG_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-09-28T17:56:24-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/vgm/5795991475.html">
+        <title><![CDATA[Nintendo Gamecube BLACK SYSTEM W/8 GAMES (East Orlando near Ucf  waterfordlakes) &#x0024;85]]></title>
+        <link>http://orlando.craigslist.org/vgm/5795991475.html</link>
+        <description><![CDATA[SELLING BLACK GAMECUBE SYSTEM WITH 5 GAMES ONE CONTROLLER ALL WIRES TESTED WORKS GAMES ARE NEED FOR SPEED HOT PURSUIT SPYRO NARUTO SONIC HEREOS DRAGON BALL Z CALL OR TEXT 
+ <a href="/fb/orl/vgm/5795991475" class="showcontact" title="click to show contact info">show contact info</a>
+I ALSO HAVE 3 OTHER GAMES INCLUDE NOT SHOWN IN PICTURE SHREK 2 SPO [...]]]></description>
+        <dc:date>2016-09-28T10:25:52-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/vgm/5795991475.html</dc:source>
+        <dc:title><![CDATA[Nintendo Gamecube BLACK SYSTEM W/8 GAMES (East Orlando near Ucf  waterfordlakes) &#x0024;85]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00Z0Z_9v08oMjxC7s_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-09-28T10:25:52-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/ele/5802465265.html">
+        <title><![CDATA[Wii with 27 games 2 controllers (Lake Mary) &#x0024;130]]></title>
+        <link>http://orlando.craigslist.org/ele/5802465265.html</link>
+        <description><![CDATA[Wii with 27 games. It has 2 controllers and 4 GameCube controllers. In great Condition and the system works great.]]></description>
+        <dc:date>2016-09-27T20:47:17-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/ele/5802465265.html</dc:source>
+        <dc:title><![CDATA[Wii with 27 games 2 controllers (Lake Mary) &#x0024;130]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00a0a_foe6wYfvQ6r_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-09-27T20:47:17-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/vgm/5782214618.html">
+        <title><![CDATA[Xbox, Playstation 2 (PS2), Gamecube games - Make an offer]]></title>
+        <link>http://orlando.craigslist.org/vgm/5782214618.html</link>
+        <description><![CDATA[All games complete in box 
+Taking any serious offer, cash only 
+Pick up in the Windermere or Kirkman/Sand Lake area 
+Gamecube: 
+Mario Party 4 
+PS2: 
+Mortal Kombat Armageddon - Premium Edition (steelbook) 
+Kingdom Hearts (Greatest Hits) 
+Karaoke Revol [...]]]></description>
+        <dc:date>2016-09-26T21:36:33-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/vgm/5782214618.html</dc:source>
+        <dc:title><![CDATA[Xbox, Playstation 2 (PS2), Gamecube games - Make an offer]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00r0r_9LJx1ReX13Q_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-09-26T21:36:33-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/wan/5791653430.html">
+        <title><![CDATA[WANTED - Video Games! Nintendo Playstation Sega Atari Gameboy Gamecube (Winter Park, FL) &#x0024;100]]></title>
+        <link>http://orlando.craigslist.org/wan/5791653430.html</link>
+        <description><![CDATA[Please don't flag my post, I dont flag yours. If you flag it, I'm just going to keep reposting it!! 
+Hey there, 
+I'm a collector located in Winter Park FL that is buying all of the following around Winter Park, UCF/Full Sail, Orlando and the surround [...]]]></description>
+        <dc:date>2016-09-26T11:14:53-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/wan/5791653430.html</dc:source>
+        <dc:title><![CDATA[WANTED - Video Games! Nintendo Playstation Sega Atari Gameboy Gamecube (Winter Park, FL) &#x0024;100]]></dc:title>
+        <dc:type>text</dc:type>
+        <dcterms:issued>2016-09-26T11:14:53-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/vgm/5793714720.html">
+        <title><![CDATA[Wii console w/gamecube & GC twilight princess (Eustis) &#x0024;100]]></title>
+        <link>http://orlando.craigslist.org/vgm/5793714720.html</link>
+        <description><![CDATA[Must be picked up and Wii console is red & all Wii parts are there, the remote, sensor bar, and plugs. Also I have a GameCube remote and memory card and the GameCube game LoZ Twilight Princess.]]></description>
+        <dc:date>2016-09-22T11:06:04-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/vgm/5793714720.html</dc:source>
+        <dc:title><![CDATA[Wii console w/gamecube & GC twilight princess (Eustis) &#x0024;100]]></dc:title>
+        <dc:type>text</dc:type>
+        <dcterms:issued>2016-09-22T11:06:04-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/wan/5790183163.html">
+        <title><![CDATA[Nintendo Gamecube System Bundle Plus 11 games &#x0024;100]]></title>
+        <link>http://orlando.craigslist.org/wan/5790183163.html</link>
+        <description><![CDATA[Nintendo Gamecube System Bundle Plus 11 games, includes original console with analog and digital out ports, ac adapter, power cord, controller, tv hookup and memory card in addition to the 11 games you see in the pics. Works excellent, all original i [...]]]></description>
+        <dc:date>2016-09-20T08:22:34-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/wan/5790183163.html</dc:source>
+        <dc:title><![CDATA[Nintendo Gamecube System Bundle Plus 11 games &#x0024;100]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00u0u_ebtfI7J0Wbh_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-09-20T08:22:34-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/vgm/5780663678.html">
+        <title><![CDATA[Custom painted gamecube For sale &#x0024;35]]></title>
+        <link>http://orlando.craigslist.org/vgm/5780663678.html</link>
+        <description><![CDATA[This is a custom painted Nintendo GameCube the paint is a little scratched but it works great I am selling the console only 35 bucks is a steal email or text me and we can organize a pickup thanks!!!!!!!]]></description>
+        <dc:date>2016-09-13T21:26:50-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/vgm/5780663678.html</dc:source>
+        <dc:title><![CDATA[Custom painted gamecube For sale &#x0024;35]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00P0P_ebRK0Bp2Rq5_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-09-13T21:26:50-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/vgm/5737843539.html">
+        <title><![CDATA[Gamecube game Lost Kingdoms disc only (Geneva, Oviedo) &#x0024;15]]></title>
+        <link>http://orlando.craigslist.org/vgm/5737843539.html</link>
+        <description><![CDATA[This is a Gamecube game, Lost Kingdoms. It plays great and is in good condition. It is only the disc. 
+If you see this listing, the items are still available.]]></description>
+        <dc:date>2016-09-09T16:27:29-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/vgm/5737843539.html</dc:source>
+        <dc:title><![CDATA[Gamecube game Lost Kingdoms disc only (Geneva, Oviedo) &#x0024;15]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00B0B_e6iPupYshuU_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-09-09T16:27:29-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/tag/5772166989.html">
+        <title><![CDATA[Nintendo GameCube Console (Orlando) &#x0024;15]]></title>
+        <link>http://orlando.craigslist.org/tag/5772166989.html</link>
+        <description><![CDATA[Pre-owned Nintendo GameCube console is turning On, and disks start to rotate, the laser moves but it is not able to read disks. 
+-Console for repair or parts 
+-indigo color 
+-power cable 
+-AV cable ]]></description>
+        <dc:date>2016-09-08T12:49:40-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/tag/5772166989.html</dc:source>
+        <dc:title><![CDATA[Nintendo GameCube Console (Orlando) &#x0024;15]]></dc:title>
+        <dc:type>text</dc:type>
+        <enc:enclosure resource="https://images.craigslist.org/00l0l_4bcPicgfzEX_300x300.jpg" type="image/jpeg"/>
+        <dcterms:issued>2016-09-08T12:49:40-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/wan/5728303518.html">
+        <title><![CDATA[Looking to buy a Gamecube (Clermont)]]></title>
+        <link>http://orlando.craigslist.org/wan/5728303518.html</link>
+        <description><![CDATA[I am looking to buy a gamecube, looking for a system with a couple of games like Zelda and super Mario. Let me know what you have and what you are looking to get for it.]]></description>
+        <dc:date>2016-09-07T23:26:52-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/wan/5728303518.html</dc:source>
+        <dc:title><![CDATA[Looking to buy a Gamecube (Clermont)]]></dc:title>
+        <dc:type>text</dc:type>
+        <dcterms:issued>2016-09-07T23:26:52-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/vgm/5754589378.html">
+        <title><![CDATA[gamecube wireless controller and N64 transfer PAK (apopka) &#x0024;30]]></title>
+        <link>http://orlando.craigslist.org/vgm/5754589378.html</link>
+        <description><![CDATA[Gamecube wireless controller $20 
+N64 TRANSFER PAK $10]]></description>
+        <dc:date>2016-09-06T01:50:31-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/vgm/5754589378.html</dc:source>
+        <dc:title><![CDATA[gamecube wireless controller and N64 transfer PAK (apopka) &#x0024;30]]></dc:title>
+        <dc:type>text</dc:type>
+        <dcterms:issued>2016-09-06T01:50:31-04:00</dcterms:issued>
+    </item>
+    <item rdf:about="http://orlando.craigslist.org/vgm/5754032125.html">
+        <title><![CDATA[PS2 and Games for ps2, ps3, gamecube and wii (Orlando UCF) &#x0024;35]]></title>
+        <link>http://orlando.craigslist.org/vgm/5754032125.html</link>
+        <description><![CDATA[Slim Silver PS2 (comes with all the cords) $35 obo 
+All of the games have their boxes and booklets unless stated other wise. 
+PS2 Games 
+Guitar Hero World Tour $5 obo 
+Guitar Hero Aerosmith $5 obo 
+Brothers in arms: Earned in blood (No box, no bookle [...]]]></description>
+        <dc:date>2016-08-27T23:46:55-04:00</dc:date>
+        <dc:language>en-us</dc:language>
+        <dc:rights>copyright 2016 craiglist</dc:rights>
+        <dc:source>http://orlando.craigslist.org/vgm/5754032125.html</dc:source>
+        <dc:title><![CDATA[PS2 and Games for ps2, ps3, gamecube and wii (Orlando UCF) &#x0024;35]]></dc:title>
+        <dc:type>text</dc:type>
+        <dcterms:issued>2016-08-27T23:46:55-04:00</dcterms:issued>
+    </item>
+</rdf:RDF>
