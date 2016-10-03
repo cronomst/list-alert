@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.wordsthatfollow.craigslistalert;
 
 import java.io.InputStream;
@@ -14,20 +9,23 @@ import java.net.URLEncoder;
  * @author kshook
  */
 public class RssClient {
-    private String baseUrl;
+    private String urlTemplate;
 
-    public String getBaseUrl() {
-        return baseUrl;
+    public String getUrlTemplate() {
+        return urlTemplate;
     }
 
-    public void setBaseUrl(String baseUrl) {
-        this.baseUrl = baseUrl;
+    public void setUrlTemplate(String urlTemplate) {
+        this.urlTemplate = urlTemplate;
     }
     
-    public String getSearch(String searchTerm) throws Exception
+    public String getSearch(String location, String searchTerm) throws Exception
     {
         String encodedSearchTerm = URLEncoder.encode(searchTerm, "UTF-8");
-        URL url = new URL(baseUrl + "&query=" + encodedSearchTerm);
+        String urlString = String.format(urlTemplate,
+                location,
+                encodedSearchTerm);
+        URL url = new URL(urlString);
         InputStream in = url.openStream();
         
         return SimpleReader.read(in);

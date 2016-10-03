@@ -50,6 +50,10 @@ public class SearchResults {
     
     public Map<String,SearchResult> diffSearchResults(Map<String,SearchResult> oldResults, Map<String,SearchResult> newResults)
     {
+        if (oldResults == null) {
+            return newResults;
+        }
+        
         HashMap<String,SearchResult> diff = new HashMap<>();
         
         for (String key : newResults.keySet()) {

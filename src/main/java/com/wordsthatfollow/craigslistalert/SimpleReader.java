@@ -14,6 +14,7 @@ public class SimpleReader {
         Scanner scanner = new Scanner(in).useDelimiter("\\Z");
         String content = scanner.next();
         scanner.close();
+        in.close();
         return content;
     }
 }
