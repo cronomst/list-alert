@@ -22,8 +22,8 @@ public class Main
 
     public static void main(String[] args)
     {
-        String[] cla = {"-s", "gamecube", "-l", "orlando", "-c", "/tmp/gamecube.html"};
-        Main main = new Main(cla);
+//        String[] cla = {"-s", "gamecube", "-l", "orlando", "-c", "/tmp/gamecube.html"};
+        Main main = new Main(args);
         main.start();
     }
 
@@ -48,10 +48,16 @@ public class Main
                 this.searchLocation = args[argpos];
             } else {
                 System.err.println("Argument '" + args[argpos] + "' not recognized.");
+                this.printUsage();
                 System.exit(1);
             }
             argpos++;
         }
+    }
+    
+    private void printUsage()
+    {
+        System.out.println("Usage: -s <search terms> -l <location> -c <cache filename>\n");
     }
 
     private void init()
@@ -73,19 +79,19 @@ public class Main
     private void start()
     {
         SearchResults searchResults = new SearchResults();
-        
+
         try {
             RssClient client = new RssClient();
             client.setUrlTemplate(CL_URL);
             String search = client.getSearch(this.searchLocation, this.searchTerm);
-            Map<String,SearchResult> results = searchResults.parseSearchResults(search);
-            Map<String,SearchResult> cachedResults = null;
+            Map<String, SearchResult> results = searchResults.parseSearchResults(search);
+            Map<String, SearchResult> cachedResults = null;
             if (Files.exists(Paths.get(this.cacheFilename))) {
                 String cache = SimpleReader.read(new FileInputStream(this.cacheFilename));
                 cachedResults = searchResults.parseSearchResults(cache);
             }
-            
-            Map<String,SearchResult> diff = searchResults.diffSearchResults(cachedResults, results);
+
+            Map<String, SearchResult> diff = searchResults.diffSearchResults(cachedResults, results);
             if (diff.isEmpty() == false) {
                 notify(diff);
                 writeCache(search);
@@ -95,20 +101,20 @@ public class Main
             e.printStackTrace();
         }
     }
-    
-    private void notify(Map<String,SearchResult> results)
+
+    private void notify(Map<String, SearchResult> results)
     {
         String out = String.format("Results found for search term [%s] in location [%s].\n\n",
                 this.searchTerm,
                 this.searchLocation);
-        
+
         for (SearchResult result : results.values()) {
             out += result.title + "\n";
         }
-        
+
         System.out.println(out);
     }
-    
+
     private void writeCache(String cacheData) throws IOException
     {
         BufferedOutputStream out = new BufferedOutputStream(new FileOutputStream(this.cacheFilename));
@@ -116,8 +122,6 @@ public class Main
         out.flush();
         out.close();
     }
-    
-    
 
 //    public void sendEmail()
 //    {
