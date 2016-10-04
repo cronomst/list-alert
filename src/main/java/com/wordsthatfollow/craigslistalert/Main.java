@@ -22,7 +22,6 @@ public class Main
 
     public static void main(String[] args)
     {
-//        String[] cla = {"-s", "gamecube", "-l", "orlando", "-c", "/tmp/gamecube.html"};
         Main main = new Main(args);
         main.start();
     }
@@ -95,6 +94,10 @@ public class Main
             if (diff.isEmpty() == false) {
                 notify(diff);
                 writeCache(search);
+            } else {
+                System.out.println(String.format("No new results found for search term [%s] in location [%s].",
+                        this.searchTerm,
+                        this.searchLocation));
             }
         } catch (Exception e) {
             System.err.println(e);
@@ -109,22 +112,23 @@ public class Main
                 this.searchLocation);
 
         for (SearchResult result : results.values()) {
-            out += result.title + "\n";
+            out += "(" + result.link + ") " + result.title + "\n";
         }
 
         System.out.println(out);
+        this.sendEmail(String.format("List Alert: %s found in %s", this.searchTerm, this.searchLocation), out);
     }
 
     private void writeCache(String cacheData) throws IOException
     {
-        BufferedOutputStream out = new BufferedOutputStream(new FileOutputStream(this.cacheFilename));
-        out.write(cacheData.getBytes());
-        out.flush();
-        out.close();
+        try (BufferedOutputStream out = new BufferedOutputStream(new FileOutputStream(this.cacheFilename))) {
+            out.write(cacheData.getBytes());
+            out.flush();
+        }
     }
 
-//    public void sendEmail()
-//    {
+    public void sendEmail(String subject, String body)
+    {
 //        try {
 //            Email email = new SimpleEmail();
 //            email.setHostName("smtp.googlemail.com");
@@ -132,12 +136,12 @@ public class Main
 //            email.setAuthenticator(new DefaultAuthenticator("un", "pw"));
 //            email.setSSLOnConnect(true);
 //            email.setFrom("from@gmail.com");
-//            email.setSubject("Email subject");
-//            email.setMsg("Email body");
+//            email.setSubject(subject);
+//            email.setMsg(body);
 //            email.addTo("to@gmail.com");
 //            email.send();
 //        } catch (EmailException ex) {
 //            Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
 //        }
-//    }
+    }
 }

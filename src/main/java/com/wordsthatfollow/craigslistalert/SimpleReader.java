@@ -11,10 +11,10 @@ import java.util.Scanner;
 public class SimpleReader {
     public static String read(InputStream in) throws IOException
     {
-        Scanner scanner = new Scanner(in).useDelimiter("\\Z");
-        String content = scanner.next();
-        scanner.close();
-        in.close();
+        String content;
+        try (Scanner scanner = new Scanner(in).useDelimiter("\\Z")) {
+            content = scanner.next();
+        }
         return content;
     }
 }
